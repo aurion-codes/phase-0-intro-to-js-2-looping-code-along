@@ -1,1 +1,6 @@
-// Code your solutions in this file
+function countDown(positiveNumber) {
+    while(postiveNumber > 0=) {
+        console.log(positiveNumber > 0);
+        positiveNumber--;
+    }
+}
